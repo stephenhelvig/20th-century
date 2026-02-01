@@ -1,0 +1,116 @@
+source,target,value
+Austria,France,1
+Austria,Hungary,1
+Hungary,Russia,1
+Germany,Russia,19
+Germany,Ukraine,9
+Germany,Italy,27
+Austria,Germany,11
+Germany,Spain,5
+Spain,United Kingdom,5
+France,United Kingdom,34
+France,Poland,11
+Poland,United Kingdom,5
+France,Germany,17
+Germany,Poland,22
+Poland,Russia,17
+Estonia,Germany,5
+Estonia,Latvia,12
+Latvia,Lithuania,6
+Finland,Lithuania,11
+Finland,Germany,5
+Denmark,Poland,5
+Denmark,Norway,12
+Denmark,Sweden,5
+Germany,Sweden,6
+Germany,Netherlands,5
+Luxembourg,Netherlands,6
+Belgium,Luxembourg,5
+Belgium,France,5
+France,Italy,5
+Greece,Italy,5
+Greece,United Kingdom,10
+Germany,United Kingdom,21
+Albania,Greece,6
+Albania,Russia,10
+Russia,Ukraine,5
+Belarus,Ukraine,6
+Belarus,Libya,5
+Egypt,Libya,16
+Egypt,Iraq,5
+Iran,Iraq,6
+Iran,United States,10
+Japan,United States,49
+Germany,Japan,27
+Russia,United States,31
+Morocco,United Kingdom,5
+Algeria,Morocco,6
+Algeria,Italy,5
+Italy,United Kingdom,5
+China,Japan,28
+Italy,Japan,5
+Japan,Thailand,6
+Singapore,Thailand,6
+Philippines,Singapore,6
+Japan,Philippines,10
+Australia,Philippines,6
+Australia,Japan,5
+Japan,Solomon Islands,11
+India,Japan,16
+China,United States,15
+Japan,Poland,5
+Japan,Russia,11
+France,Russia,6
+China,France,6
+China,India,12
+India,Pakistan,12
+Israel,Pakistan,6
+Israel,North Korea,6
+North Korea,South Africa,5
+Israel,South Africa,6
+Israel,Libya,5
+Iran,Libya,6
+Germany,United States,5
+France,Japan,5
+Pakistan,Philippines,5
+Laos,Philippines,5
+Cambodia,Laos,6
+Cambodia,Vietnam,6
+Kenya,Vietnam,5
+Ghana,Kenya,6
+Ghana,Seychelles,5
+France,Seychelles,5
+France,Guinea-Bissau,5
+Guinea-Bissau,Russia,5
+Latvia,United States,5
+Estonia,Lithuania,6
+Finland,Romania,6
+Romania,Russia,6
+Albania,Bulgaria,6
+Bulgaria,Poland,6
+Poland,Romania,6
+Hungary,Romania,6
+Hungary,Mongolia,5
+China,Mongolia,6
+China,North Korea,6
+Cuba,North Korea,6
+Cuba,Vietnam,11
+Russia,Vietnam,5
+North Korea,Russia,5
+North Korea,United States,6
+South Korea,United States,6
+Canada,South Korea,5
+Australia,Canada,6
+Australia,United Kingdom,6
+United Kingdom,Vietnam,5
+United States,Vietnam,10
+Cambodia,United States,10
+Cuba,United States,5
+Canada,Japan,6
+Canada,Russia,5
+Lithuania,United States,5
+Lithuania,Russia,5
+China,Russia,5
+India,South Africa,5
+Rwanda,South Africa,5
+North Korea,Rwanda,5
