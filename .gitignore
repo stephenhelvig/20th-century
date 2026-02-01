@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 chromedriver-mac-arm64/
+
+# Local Anaconda/Jupyter file browser database
+anaconda_projects/db/*.db
